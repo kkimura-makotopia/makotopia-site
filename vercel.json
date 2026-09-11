@@ -1,8 +1,3 @@
 {
-  "rewrites": [
-    {
-      "source": "/service",
-      "destination": "/service/index.html"
-    }
-  ]
+  "rewrites": []
 }
